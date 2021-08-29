@@ -11,6 +11,8 @@ Once the chunk is made, it is played back and then the user is asked to confirm 
 
 Probably best used wearing headphones.
 
+There are *many* commented-out lines left in the script for reference.
+
 EXAMPLE:
 
   `mp3chunk.sh my_special_video.mp4 3010 20 audio_clip-1.mp3`
