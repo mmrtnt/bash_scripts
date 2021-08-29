@@ -19,5 +19,6 @@ EXAMPLE:
 
 The ss/seconds numbers can be determined by playing the video in mplayer from the command line and watching the output in the terminal.
 
-![mplayer_ss](https://user-images.githubusercontent.com/7717715/131263653-95411200-1d5d-4668-905b-536bd1221830.png)
+![mplayer_ss](https://user-images.githubusercontent.com/7717715/131263722-e60b7f17-9e7b-4603-889a-32149d2b0423.png)
+
 
